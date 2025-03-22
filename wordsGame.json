@@ -1,0 +1,73 @@
+{
+  "programming": [
+    { "word": "java", "hint": "☕" },
+    { "word": "python", "hint": "🐍" },
+    { "word": "php", "hint": "🐘" },
+    { "word": "javascript", "hint": "📜" },
+    { "word": "ruby", "hint": "💎" },
+    { "word": "html", "hint": "🌐" },
+    { "word": "css", "hint": "🎨" },
+    { "word": "c++", "hint": "💻" },
+    { "word": "c#", "hint": "Mother languages" },
+    { "word": "swift", "hint": "🦅" }
+  ],
+  "animals": [
+    { "word": "dog", "hint": "🐶" },
+    { "word": "cat", "hint": "🐱" },
+    { "word": "elephant", "hint": "🐘" },
+    { "word": "lion", "hint": "🦁" },
+    { "word": "tiger", "hint": "🐯" },
+    { "word": "zebra", "hint": "🦓" },
+    { "word": "monkey", "hint": "🐵" },
+    { "word": "bear", "hint": "🐻" },
+    { "word": "wolf", "hint": "🐺" }
+  ],
+  "fruits": [
+    { "word": "apple", "hint": "🍎" },
+    { "word": "banana", "hint": "🍌" },
+    { "word": "orange", "hint": "🍊" },
+    { "word": "grape", "hint": "🍇" },
+    { "word": "kiwi", "hint": "🥝" },
+    { "word": "mango", "hint": "🥭" },
+    { "word": "pineapple", "hint": "🍍" },
+    { "word": "peach", "hint": "🍑" },
+    { "word": "lemon", "hint": "🍋" }
+  ],
+  "countries": [
+    { "word": "india", "hint": "🇮🇳" },
+    { "word": "canada", "hint": "🇨🇦" },
+    { "word": "australia", "hint": "🇦🇺" },
+    { "word": "japan", "hint": "🇯🇵" },
+    { "word": "egypt", "hint": "🇪🇬" },
+    { "word": "saudi arabia", "hint": "🇸🇦" },
+    { "word": "kuwait", "hint": "🇰🇼" },
+    { "word": "qatar", "hint": "🇶🇦" },
+    { "word": "bahrain", "hint": "🇧🇭" },
+    { "word": "oman", "hint": "🇴🇲" },
+    { "word": "jordan", "hint": "🇯🇴" },
+    { "word": "yemen", "hint": "🇾🇪" }
+  ],
+  "colors": [
+    { "word": "red", "hint": "🔴" },
+    { "word": "blue", "hint": "🔵" },
+    { "word": "green", "hint": "🟢" },
+    { "word": "yellow", "hint": "🟡" },
+    { "word": "orange", "hint": "🟠" },
+    { "word": "purple", "hint": "🟣" },
+    { "word": "pink", "hint": "🎀" },
+    { "word": "black", "hint": "⚫" },
+    { "word": "white", "hint": "⚪" },
+    { "word": "brown", "hint": "🟤" }
+  ],
+  "movies": [
+    { "word": "titanic", "hint": "🚢" },
+    { "word": "avatar", "hint": "🌍" },
+    { "word": "inception", "hint": "🌀" },
+    { "word": "interstellar", "hint": "🚀" },
+    { "word": "joker", "hint": "🃏" },
+    { "word": "superman", "hint": "🦸" },
+    { "word": "harry potter", "hint": "⚡" },
+    { "word": "star wars", "hint": "🌌🔫" },
+    { "word": "penguin", "hint": "🐧" }
+  ]
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hang Man Game</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap"
+      rel="stylesheet" />
+    <!--  -->
+    <link rel="shortcut icon" href="logo.icon" />
+  </head>
+  <body>
+    <!--  -->
+    <div class="container">
+      <!--  -->
+      <div class="game-info">
+        <div class="game-name">Hangman</div>
+        <div class="category">Word From: <span></span></div>
+      </div>
+      <!--  -->
+      <hr />
+      <div class="row">
+        <!--  -->
+        <div class="hangman-draw">
+          <div class="the-draw">
+            <div class="the-stand"></div>
+            <div class="the-hang"></div>
+            <div class="the-rope"></div>
+            <!--  -->
+            <div class="the-man">
+              <div class="head"></div>
+              <div class="body"></div>
+              <div class="hands"></div>
+              <div class="legs"></div>
+            </div>
+            <!--  -->
+          </div>
+        </div>
+        <!--  -->
+        <div class="letters"></div>
+      </div>
+      <hr />
+      <!--  -->
+      <div class="letters-guess"></div>
+      <div class="footer">
+        <p>Creaded By:<span>The Penguin</span> &copy; 2025</p>
+      </div>
+    </div>
+    <!--  -->
+    <audio id="success" src="win.wav" preload="auto"></audio>
+    <audio id="fail" src="game-over-38511.mp3" preload="auto"></audio>
+    <audio src="click-win.wav" id="win" preload="auto"></audio>
+    <!---->
+    <script src="main.js"></script>
+  </body>
+</html>
